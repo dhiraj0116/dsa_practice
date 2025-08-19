@@ -85,6 +85,6 @@ public class Top_K_Frequent_Elements {
 
     public static void main(String[] args) {
         Top_K_Frequent_Elements test = new Top_K_Frequent_Elements();
-        System.out.println(Arrays.toString(test.topKFrequent3(new int[]{1, 1, 1, 2, 2, 3}, 2)));
+        System.out.println(Arrays.toString(test.topKFrequent3(new int[]{1, 1, 1, 2, 2, 3, 3, 3, 3}, 2)));
     }
 }
