@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+out/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Build tools
+target/
+build/
+
+# Logs
+*.log
